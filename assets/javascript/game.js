@@ -27,7 +27,7 @@ document.onkeyup = function(event){
         if(event.keyCode > 64 && event.keyCode < 91){
             //console.log('lets play!');
         } else {
-            alert('I am thinking of a letter. Try again!');
+            alert('I am thinking of a Letter. Try again!');
             return false;
         }
     }

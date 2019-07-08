@@ -1,0 +1,44 @@
+.container{
+    display: grid;
+}
+
+body {
+    background: url(../images/crystal-ball-4043805__340.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    background-color:  black;
+}
+
+.title{
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 5%;
+    margin-right: 1%;
+    margin-left: 1%;
+    border: dotted;
+    padding: 10px;
+    color: white;
+}
+
+.content{
+    font-family: 'PT Sans Narrow', sans-serif;
+    position: absolute;
+    left: 19%;
+    border: dotted;
+    height: 50%;
+    font-size: 25px;
+    margin-top: 15%;
+    width: 50%;
+    padding-top: 8%;
+    padding: 5%;
+}
+
+#question{
+    font-size: 30px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
