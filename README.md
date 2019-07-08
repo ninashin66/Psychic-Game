@@ -3,7 +3,7 @@
 ## Instructions
 * Try to guess the letter the computer is thinking!
 * You have 10 tries to guess. 
-* Use your letter keys on your keyboard to guess.
+* Use your letter keys on your keyboard to make guesses.
 
 ## Sources
 * google fonts
